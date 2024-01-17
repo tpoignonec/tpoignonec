@@ -38,7 +38,7 @@ __Currently learning:__
 
 [![Tools](https://skillicons.dev/icons?i=rust&theme=light)](https://skillicons.dev)
 
-__Whishlist for stuff to look at when I have time:__
+__Whishlist of things to learn next time I have time:__
 
 [![Tools](https://skillicons.dev/icons?i=julia,godot&theme=light)](https://skillicons.dev)
 
