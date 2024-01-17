@@ -27,13 +27,20 @@ __Main languages:__
 
 __Main libs & frameworks:__
 
-[![Tools](https://skillicons.dev/icons?i=ros,opencv,qt,cmake&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=ros,opencv,qt,cmake&theme=light)](https://skillicons.dev) + CasADI and ACADOS, but I didn't find the right icons, yet ^^
 
 __Main tools:__
 
 [![Tools](https://skillicons.dev/icons?i=linux,vscode,anaconda,docker,git,github&theme=light)](https://skillicons.dev)
 
 
+__Currently learning:__
+
+[![Tools](https://skillicons.dev/icons?i=rust&theme=light)](https://skillicons.dev)
+
+__Whishlist for stuff to look at when I have time:__
+
+[![Tools](https://skillicons.dev/icons?i=julia,godot&theme=light)](https://skillicons.dev)
 
 <details>
 <summary> Github stats for this account </summary>
