@@ -53,6 +53,6 @@ __Whishlist of things to learn next time I have time:__
 
 
 
-![tpoignonec's github stats](https://github-readme-stats-ten-pied-17.vercel.app/api?username=tpoignonec&count_private=true&show_icons=true)
+![tpoignonec's github stats](https://github-readme-stats-ten-pied-17.vercel.app/api?username=tpoignonec&count_private=true&include_all_commits=true&show_icons=true)
 
 </details>
