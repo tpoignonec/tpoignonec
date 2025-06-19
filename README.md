@@ -32,7 +32,7 @@ __Main tools:__
 [![Tools](https://skillicons.dev/icons?i=linux,vscode,anaconda,docker,git,github&theme=light)](https://skillicons.dev)
 
 
-__Whishlist of things to learn next time I have time:__
+__Currently learning:__
 
 [![Tools](https://skillicons.dev/icons?i=rust&theme=light)](https://skillicons.dev)
 
